@@ -1,0 +1,20 @@
+# Blueprint Organizer Pro
+
+This repository contains a starter implementation for a blueprint and drawing management platform with a review-first workflow.
+
+## Root scripts
+
+```bash
+npm install
+npm run docker:up
+npm run backend:dev
+npm run frontend:dev
+```
+
+## Default ports
+
+- frontend: 3000
+- backend: 3001
+- postgres: 5432
+- minio: 9000
+- minio console: 9001
